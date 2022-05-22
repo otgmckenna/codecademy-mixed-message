@@ -1,0 +1,37 @@
+body {
+    font-family: Rift, sans-serif;
+}
+
+h1 {
+    font-size: 64px;
+    margin-top: 0px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    padding: 25px 75px;
+    font-family: Rift, sans-serif;
+    font-size: 34px;
+    font-weight: 500;
+    background-color: #ffffff;
+    color: #e63946;
+    border: 5px solid #e63946;
+    border-radius: 15px;
+}
+
+button:hover {
+    color: #ffffff;
+    background-color: #e63946;
+    transition: .25s;
+}
+
+button:active {
+    color: #ffffff;
+    border: 5px solid #8d212a;
+    background-color: #8d212a;  
+}
