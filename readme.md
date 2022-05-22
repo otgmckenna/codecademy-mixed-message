@@ -1,0 +1,1 @@
+This is a project created as part of the Full Stack Web Development course on Codecademy.
