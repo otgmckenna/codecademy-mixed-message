@@ -1,0 +1,1 @@
+//This script will output a random message each time it is executed.
